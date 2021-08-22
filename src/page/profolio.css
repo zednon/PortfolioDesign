@@ -1,0 +1,89 @@
+header{
+    background-color: black;
+    width: 100%;
+}
+
+ul{
+    border:black 5px solid;
+    background-color: white; 
+    color: black;
+}
+
+li a:hover:not(.active) {
+    background-color: #83e5d6;
+    color: white;
+  }
+
+  ul li{   display: inline-flex;
+    flex-direction: row;
+    padding-right: 7%;
+    padding-left: 7%;
+    font-family: 'Hind Siliguri', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+#pink {
+    background-color: #FEF4F6;
+}
+
+
+.navBar li {
+  
+    list-style-type : none;
+    text-align: center;
+    
+}
+
+#nya {
+    border: black solid 5px;
+    padding-top: 20px;
+}
+
+#chart {
+    border: black solid 5px;
+    width: 90%;
+    padding: 5px;
+
+}
+
+.board{
+    border: black solid 5px;
+    width: 90%;
+    padding: 5px;
+
+}
+
+#postnote {
+    border: black solid 5px;
+    width: 90% ;   
+margin: 5px;
+}
+
+.lineme{
+    width: 100%;
+ border: 2px double #27AAFF;
+
+}
+
+main {
+    background-color: white;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%; 
+}
+
+.phone {
+    border: black solid 5px;
+    width: 25% ; 
+    margin: 5px;  
+}
+
+#colorbutton {
+    background-color: #65D866;
+    color: white;
+}
+
+.movie{
+    border: black solid 5px;
+    width: 70%;
+    height: 300px;
+}
