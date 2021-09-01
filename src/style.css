@@ -21,8 +21,17 @@ ul li{   display: inline-flex;
 font-family: 'Open Sans Condensed', sans-serif;
 }
 
+hr {
+  border: solid 5px #9a98cc;
+  color: #9a98cc;
+  width: 25%;
 
+}
   
+#UXCS{
+  padding:20px;
+}
+
 .navBar li {
   
     list-style-type : none;
