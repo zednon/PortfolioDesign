@@ -4,9 +4,13 @@ font-family: 'Hind Siliguri', sans-serif;
 font-family: 'Open Sans Condensed', sans-serif;
 
 }
-header{
-    background-color: black;
-    width: 100%;
+
+
+footer {
+  
+  width: 100%;
+  border: solid 5px black;
+  background-color: white; 
 }
 ul{
     border:black 5px solid;
@@ -27,7 +31,10 @@ hr {
   width: 25%;
 
 }
-  
+  .footertext{
+    margin: 1%;
+    
+  }
 #UXCS{
   padding:20px;
 }
