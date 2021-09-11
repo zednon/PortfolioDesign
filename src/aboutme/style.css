@@ -4,7 +4,12 @@
     text-align: center;
     
 }
-
+body {
+  background-color: #FEF4F6;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  
+  }
 
 
 li a:hover:not(.active) {
@@ -55,3 +60,17 @@ ul{
         border: solid 5px black;
         background-color: white; 
       }
+
+.leftside {
+  float: left;
+  width: 75%;
+}
+
+.rightside {
+  float: right;
+  width: 25%;
+}
+
+main {
+    background-color: #FEF4F6;
+}
